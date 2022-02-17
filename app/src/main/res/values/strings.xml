@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PlayShop (demo)</string>
+    <string name="toolbar_accessibility_back">Back</string>
+    <string name="toolbar_accessibility_more">More</string>
+    <string name="gamecard_accessibility_background_image">Background image</string>
+    <string name="gamecard_accessibility_game_logo">Game logo</string>
+    <string name="gamecard_accessibility_game_media">Game media</string>
+    <string name="gamecard_accessibility_game_media_play">Play</string>
+    <string name="gamecard_accessibility_review_avatar">Review author avatar</string>
+    <string name="gamecard_review_and_ratings"><![CDATA[Review & Ratings]]></string>
+    <string name="gamecard_review_formatted_count" formatted="false">%s Reviews</string>
+    <string name="gamecard_button_install">Install</string>
+</resources>
